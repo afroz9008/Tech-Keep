@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tech-Keep/static/css/main.435d80d0.chunk.css",
+    "main.js": "/Tech-Keep/static/js/main.ff38f756.chunk.js",
+    "main.js.map": "/Tech-Keep/static/js/main.ff38f756.chunk.js.map",
+    "runtime-main.js": "/Tech-Keep/static/js/runtime-main.3fbdabdd.js",
+    "runtime-main.js.map": "/Tech-Keep/static/js/runtime-main.3fbdabdd.js.map",
+    "static/js/2.6e6bdcb9.chunk.js": "/Tech-Keep/static/js/2.6e6bdcb9.chunk.js",
+    "static/js/2.6e6bdcb9.chunk.js.map": "/Tech-Keep/static/js/2.6e6bdcb9.chunk.js.map",
+    "index.html": "/Tech-Keep/index.html",
+    "precache-manifest.321a4639ddd5ea92ec4382e6579d28b1.js": "/Tech-Keep/precache-manifest.321a4639ddd5ea92ec4382e6579d28b1.js",
+    "service-worker.js": "/Tech-Keep/service-worker.js",
+    "static/css/main.435d80d0.chunk.css.map": "/Tech-Keep/static/css/main.435d80d0.chunk.css.map",
+    "static/js/2.6e6bdcb9.chunk.js.LICENSE.txt": "/Tech-Keep/static/js/2.6e6bdcb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fbdabdd.js",
+    "static/js/2.6e6bdcb9.chunk.js",
+    "static/css/main.435d80d0.chunk.css",
+    "static/js/main.ff38f756.chunk.js"
+  ]
+}
